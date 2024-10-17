@@ -1,2 +1,3 @@
-# know-about-new
+# Know-About-New
 To learn about new technology 
+
